@@ -9,8 +9,8 @@ This is a Article Preview Component that you can use on your websites.
 
 ## Links
 
-- **GitHub Repository:** [View Code](https://github.com/altindaselif/meet-landing-page)
-- **Live Demo:** [View Live Site](https://altindaselif.github.io/meet-landing-page/)
+- **GitHub Repository:** [View Code](https://github.com/altindaselif/article-preview-component-master)
+- **Live Demo:** [View Live Site](https://altindaselif.github.io/article-preview-component-master/)
 
 ## Built With
 
