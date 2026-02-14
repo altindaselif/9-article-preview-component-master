@@ -9,8 +9,8 @@ This is a Article Preview Component that you can use on your websites.
 
 ## Links
 
-- **GitHub Repository:** [View Code](https://github.com/altindaselif/article-preview-component-master)
-- **Live Demo:** [View Live Site](https://altindaselif.github.io/article-preview-component-master/)
+- **GitHub Repository:** [View Code](https://github.com/altindaselif/9-article-preview-component-master)
+- **Live Demo:** [View Live Site](https://altindaselif.github.io/9-article-preview-component-master/)
 
 ## Built With
 
